@@ -7,6 +7,7 @@ This repository contains various utility modules shared amongst several projects
 pip installable as the ``dcicutils`` package with: ``pip install dcicutils``
 
 See the `Getting Started <./getting_started.html>`_ document for tips on getting started. `Go here <./examples.html>`_ for examples of some of the most useful functions.
+Ref to getting started alternate `getting_started`_ okay or not.
 
 
 .. image:: https://travis-ci.org/4dn-dcic/utils.svg?branch=master
